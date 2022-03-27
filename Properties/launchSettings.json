@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Лопушок": {
+      "commandName": "Project"
+    },
+    "Автомир": {
+      "commandName": "Project"
+    }
+  }
+}

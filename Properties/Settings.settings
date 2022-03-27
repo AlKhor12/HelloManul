@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Автомир.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="mainConnection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=Horny;Initial Catalog=Horin;Persist Security Info=True;User ID=user;Password=user</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
